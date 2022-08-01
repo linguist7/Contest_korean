@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1> 한국어 문장 관계 분류 경진대회 </h1>
-    <blockquote cite>[ Dacon Link ](https://dacon.io/competitions/official/235875/overview/description)</blockquote cite>
+    <blockquote cite> 대회 링크: https://dacon.io/competitions/official/235875/overview/description </blockquote cite>
     <h2> 대회 개요 </h2>
     <p> ● 본 경진대회는 Natural Language Inference Dataset을 활용합니다.</p>
     <blockquote cite>(출처: https://klue-benchmark.com/tasks/68/overview/description)</blockquote cite>
