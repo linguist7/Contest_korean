@@ -77,7 +77,7 @@ def inference():
     output_pred = []
     output_prob = []
 
-    model, dataloader= accelerator.prepare(model, dataloader)
+    model, dataloader= accelerator.prepare(model, test_dataloader)
 
     model.eval()
 
