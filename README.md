@@ -1,6 +1,4 @@
 # 한국어 문장 관계 분류 경진대회 
-대회 링크 : https://dacon.io/competitions/official/235875/overview/description
-
 ## 대회 개요
 * 본 경진대회는 Natural Language Inference Dataset을 활용합니다.
 
